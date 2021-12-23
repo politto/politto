@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @politto
+- 👋 Hi, I’m @politto (Nattaphat songsiin)
 - 👀 I’m interested in 
             <br>&emsp;&emsp;Web-developing and another programming is ok.
 - 🌱 I’m currently learning 
