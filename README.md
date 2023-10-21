@@ -2,9 +2,9 @@
 - 👀 I’m interested in 
             <br>&emsp;&emsp;Web-developing and another programming is ok.
 - 🌱 I’m currently learning 
-            <br>&emsp;&emsp;Matthayom 6(grade 12)
+            <br>&emsp;&emsp;Web-developing, database systems and other.
 - 💞️ I’m looking to collaborate on 
-            <br>&emsp;&emsp;Any company or people that looking to apprentice me.
+            <br>&emsp;&emsp;Any person and any group or any corporation!
 - 📫 How to reach me 
       <br>&emsp;&emsp;via Gmail:     eakacit@gmail.com
           <br>&emsp;&emsp;Linkedin : Nattaphat Songsiin
