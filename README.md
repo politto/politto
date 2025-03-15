@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @politto (Nattaphat songsiin)
+- 👋 Hi, I’m @politto (Nattaphat Songsi-in)
 - 👀 I’m interested in 
-            <br>&emsp;&emsp;Web-developing and another programming is ok.
+            <br>&emsp;&emsp;Full-stack Web-developing and related knowledges, also soft skill too! 
 - 🌱 I’m currently learning 
             <br>&emsp;&emsp;Web-developing, database systems and other.
 - 📫 How to reach me 
       <br>&emsp;&emsp;via Gmail:     eakacit@gmail.com
-          <br>&emsp;&emsp;Linkedin : Nattaphat Songsiin
+          <br>&emsp;&emsp;Linkedin : Nattaphat Songsi-in
           <br>&emsp;&emsp;facebook:  Nattaphat Songsri-in
 
 <!---
